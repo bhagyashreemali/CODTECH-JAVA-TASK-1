@@ -39,7 +39,8 @@ Create a simple user manual for the program usage.
 ### Technology Used:
 Programming Language: Java
 Java Standard Library: java.util.Scanner for user input handling.
-![Screenshot (39)](https://github.com/user-attachments/assets/463b4137-a813-4123-b21c-7ebc520281dc)
-![Screenshot (40)](https://github.com/user-attachments/assets/710f20ed-1b14-!
-[Screenshot (41)](https://github.com/user-attachments/assets/abc4ebe3-6381-4c97-b038-adda1b32e565)
-4ab5-bb8a-cf02237fddea)
+
+
+![Screenshot (39)](https://github.com/user-attachments/assets/d551dc95-be93-4bb6-8d9d-2bc4cf439582)
+![Screenshot (40)](https://github.com/user-attachments/assets/d7a8ba1c-865c-449c-9074-feefb605d090)
+![Screenshot (41)](https://github.com/user-attachments/assets/8cf307e1-7ac2-4e30-a5c2-e72740117f80)
